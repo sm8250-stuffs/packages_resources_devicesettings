@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <!-- HBM settings -->
+    <string name="hbm_fragment_title">Modus für hohe Helligkeit</string>
+    <string name="hbm_fragment_summary">Einstellungen für HBM</string>
+    <string name="hbm_mode_title">HBM</string>
+    <string name="hbm_mode_summary">Aktivieren der Spitzenleuchtdichte</string>
+    <string name="auto_hbm_title">Automatisches HBM</string>
+    <string name="auto_hbm_summary">Aktivieren der sonnenlichtabhängigen Spitzenleuchtdichte</string>
+    <string name="auto_hbm_threshold_title"></string>
+    <string name="auto_hbm_threshold_summary">Schwellenwert (Lux)</string>
+    <string name="hbm_mode_warning">Die Verwendung des Modus \"Hohe Helligkeit\" über einen längeren Zeitraum kann Ihr Display beschädigen.</string>
+    <!-- DT2W -->
+    <string name="dt2w_enable_title">Doppeltippen zum Wecken</string>
+    <string name="dt2w_enable_summary">Doppeltippen auf den Sperrbildschirm, um das Gerät aufzuwecken</string>
+    <!-- Color mode -->
+    <string name="color_mode_option_natural">Natürlich</string>
+    <string name="color_mode_option_boosted">Erhöht</string>
+    <string name="color_mode_option_automatic">Automatisch</string>
+    <string name="color_mode_option_vivid">Lebendig</string>
+    <string name="color_mode_option_original">Original</string>
+    <string name="color_mode_option_p3">P3</string>
+    <string name="color_mode_option_srgb">sRGB</string>
+</resources>

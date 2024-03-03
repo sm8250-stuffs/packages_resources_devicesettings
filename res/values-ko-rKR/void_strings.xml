@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <!-- HBM settings -->
+    <string name="hbm_fragment_title">고휘도 모드</string>
+    <string name="hbm_fragment_summary">HBM 설정</string>
+    <string name="hbm_mode_title">HBM</string>
+    <string name="hbm_mode_summary">최고 휘도 활성화</string>
+    <string name="auto_hbm_title">자동 HBM</string>
+    <string name="auto_hbm_summary">햇빛을 기준으로 최대 휘도 활성화</string>
+    <string name="auto_hbm_threshold_title"></string>
+    <string name="auto_hbm_threshold_summary">임계값(럭스)</string>
+    <string name="hbm_mode_warning">고휘도 모드를 장시간 사용하면 디스플레이가 손상될 수 있습니다.</string>
+    <!-- DT2W -->
+    <string name="dt2w_enable_title">두 번 탭하여 깨우기</string>
+    <string name="dt2w_enable_summary">기기를 깨우려면 잠금 화면을 두 번 탭하세요.</string>
+    <!-- Color mode -->
+    <string name="color_mode_option_natural">자연스러운</string>
+    <string name="color_mode_option_boosted">부스트</string>
+    <string name="color_mode_option_automatic">자동</string>
+    <string name="color_mode_option_vivid">Vivid</string>
+    <string name="color_mode_option_original">원본</string>
+    <string name="color_mode_option_p3">P3</string>
+    <string name="color_mode_option_srgb">sRGB</string>
+</resources>

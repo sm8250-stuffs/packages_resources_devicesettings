@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <!-- HBM settings -->
+    <string name="hbm_fragment_title">উচ্চ উজ্জ্বলতা মোড</string>
+    <string name="hbm_fragment_summary">HBM এর জন্য সেটিংস</string>
+    <string name="hbm_mode_title">এইচবিএম</string>
+    <string name="hbm_mode_summary">পিক লুমিনেন্স সক্ষম করুন</string>
+    <string name="auto_hbm_title">স্বয়ংক্রিয় HBM</string>
+    <string name="auto_hbm_summary">সূর্যালোকের উপর ভিত্তি করে পিক লুমিনেন্স সক্ষম করুন</string>
+    <string name="auto_hbm_threshold_title"></string>
+    <string name="auto_hbm_threshold_summary">থ্রেশহোল্ড (লাক্স)</string>
+    <string name="hbm_mode_warning">উচ্চ উজ্জ্বলতা মোডের দীর্ঘ সময় ব্যবহার আপনার ডিসপ্লের ক্ষতি করতে পারে</string>
+    <!-- DT2W -->
+    <string name="dt2w_enable_title">জেগে উঠতে ডবল-ট্যাপ করুন</string>
+    <string name="dt2w_enable_summary">ডিভাইস জাগানোর জন্য লকস্ক্রিনে ডবল-ট্যাপ করুন</string>
+    <!-- Color mode -->
+    <string name="color_mode_option_natural">স্বাভাবিক</string>
+    <string name="color_mode_option_boosted">Boosted</string>
+    <string name="color_mode_option_automatic">স্বয়ংক্রিয়</string>
+    <string name="color_mode_option_vivid">Vivid</string>
+    <string name="color_mode_option_original">Original</string>
+    <string name="color_mode_option_p3">P3</string>
+    <string name="color_mode_option_srgb">এসআরজিবি</string>
+</resources>

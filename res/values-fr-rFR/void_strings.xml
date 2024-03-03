@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <!-- HBM settings -->
+    <string name="hbm_fragment_title">Mode haute luminosité</string>
+    <string name="hbm_fragment_summary">Paramètres pour MHL</string>
+    <string name="hbm_mode_title">MHL</string>
+    <string name="hbm_mode_summary">Activation de la luminance de pointe</string>
+    <string name="auto_hbm_title">MHL automatique</string>
+    <string name="auto_hbm_summary">Activation de la luminance de pointe en fonction de la lumière du soleil</string>
+    <string name="auto_hbm_threshold_title"></string>
+    <string name="auto_hbm_threshold_summary">seuil (lux)</string>
+    <string name="hbm_mode_warning">L\'utilisation prolongée du mode haute luminosité peut endommager votre écran.</string>
+    <!-- DT2W -->
+    <string name="dt2w_enable_title">Double-tap pour réveiller</string>
+    <string name="dt2w_enable_summary">Double-tapez sur l\'écran de verrouillage pour réveiller l\'appareil</string>
+    <!-- Color mode -->
+    <string name="color_mode_option_natural">Naturel</string>
+    <string name="color_mode_option_boosted">Boosté</string>
+    <string name="color_mode_option_automatic">Automatique</string>
+    <string name="color_mode_option_vivid">Vif</string>
+    <string name="color_mode_option_original">Original</string>
+    <string name="color_mode_option_p3">P3</string>
+    <string name="color_mode_option_srgb">sRGB</string>
+</resources>

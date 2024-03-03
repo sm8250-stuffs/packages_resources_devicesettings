@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <!-- HBM settings -->
+    <string name="hbm_fragment_title">उच्च चमक मोड</string>
+    <string name="hbm_fragment_summary">एचबीएम के लिए सेटिंग्स</string>
+    <string name="hbm_mode_title">एचबीएम</string>
+    <string name="hbm_mode_summary">चरम चमक सक्षम करें</string>
+    <string name="auto_hbm_title">स्वचालित एचबीएम</string>
+    <string name="auto_hbm_summary">सूर्य के प्रकाश के आधार पर अधिकतम चमक सक्षम करें</string>
+    <string name="auto_hbm_threshold_title"></string>
+    <string name="auto_hbm_threshold_summary">दहलीज (लक्स)</string>
+    <string name="hbm_mode_warning">हाई ब्राइटनेस मोड का लंबे समय तक उपयोग करने से आपका डिस्प्ले खराब हो सकता है</string>
+    <!-- DT2W -->
+    <string name="dt2w_enable_title">जगाने के लिए दो बार टैप करें</string>
+    <string name="dt2w_enable_summary">डिवाइस को जगाने के लिए लॉकस्क्रीन पर दो बार टैप करें</string>
+    <!-- Color mode -->
+    <string name="color_mode_option_natural">प्राकृतिक</string>
+    <string name="color_mode_option_boosted">Boosted</string>
+    <string name="color_mode_option_automatic">आटोमेटिक</string>
+    <string name="color_mode_option_vivid">Vivid</string>
+    <string name="color_mode_option_original">Original</string>
+    <string name="color_mode_option_p3">P3</string>
+    <string name="color_mode_option_srgb">sRGB</string>
+</resources>

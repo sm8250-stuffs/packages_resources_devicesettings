@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <!-- HBM settings -->
+    <string name="hbm_fragment_title">Λειτουργία υψηλής φωτεινότητας</string>
+    <string name="hbm_fragment_summary">Ρυθμίσεις για HBM</string>
+    <string name="hbm_mode_title">HBM</string>
+    <string name="hbm_mode_summary">Ενεργοποίηση μέγιστης φωτεινότητας</string>
+    <string name="auto_hbm_title">Αυτόματο HBM</string>
+    <string name="auto_hbm_summary">Ενεργοποίηση της μέγιστης φωτεινότητας με βάση το ηλιακό φως</string>
+    <string name="auto_hbm_threshold_title"></string>
+    <string name="auto_hbm_threshold_summary">κατώφλι (lux)</string>
+    <string name="hbm_mode_warning">Η μακροχρόνια χρήση της λειτουργίας υψηλής φωτεινότητας μπορεί να προκαλέσει βλάβη στην οθόνη σας.</string>
+    <!-- DT2W -->
+    <string name="dt2w_enable_title">Διπλό πάτημα για αφύπνιση</string>
+    <string name="dt2w_enable_summary">Διπλό πάτημα στην οθόνη κλειδώματος για αφύπνιση της συσκευής</string>
+    <!-- Color mode -->
+    <string name="color_mode_option_natural">Φυσικό</string>
+    <string name="color_mode_option_boosted">Ενισχυμένο</string>
+    <string name="color_mode_option_automatic">Αυτόματο</string>
+    <string name="color_mode_option_vivid">Ζωντανό</string>
+    <string name="color_mode_option_original">Αρχικό</string>
+    <string name="color_mode_option_p3">P3</string>
+    <string name="color_mode_option_srgb">sRGB</string>
+</resources>

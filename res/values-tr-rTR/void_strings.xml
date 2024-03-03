@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <!-- HBM settings -->
+    <string name="hbm_fragment_title">Yüksek parlaklık modu</string>
+    <string name="hbm_fragment_summary">HBM için ayarlar</string>
+    <string name="hbm_mode_title">HBM</string>
+    <string name="hbm_mode_summary">En yüksek parlaklığı etkinleştir</string>
+    <string name="auto_hbm_title">Otomatik HBM</string>
+    <string name="auto_hbm_summary">Gün ışığına bağlı olarak yüksek parlaklığı etkinleştir</string>
+    <string name="auto_hbm_threshold_title"></string>
+    <string name="auto_hbm_threshold_summary">eşik (lüks)</string>
+    <string name="hbm_mode_warning">Yüksek parlaklık modunun uzun süre kullanılması ekranınıza zarar verebilir</string>
+    <!-- DT2W -->
+    <string name="dt2w_enable_title">Çift dokunuşla uyandırma</string>
+    <string name="dt2w_enable_summary">Uyandırmak için kilit ekranında çift dokun</string>
+    <!-- Color mode -->
+    <string name="color_mode_option_natural">Doğal</string>
+    <string name="color_mode_option_boosted">Güçlendirilmiş</string>
+    <string name="color_mode_option_automatic">Otomatik</string>
+    <string name="color_mode_option_vivid">Canlı</string>
+    <string name="color_mode_option_original">Orijinal</string>
+    <string name="color_mode_option_p3">P3</string>
+    <string name="color_mode_option_srgb">sRGB</string>
+</resources>

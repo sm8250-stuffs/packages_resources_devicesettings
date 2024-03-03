@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <!-- HBM settings -->
+    <string name="hbm_fragment_title">高亮度模式</string>
+    <string name="hbm_fragment_summary">HBM 的設置</string>
+    <string name="hbm_mode_title">HBM</string>
+    <string name="hbm_mode_summary">啟用峰值亮度</string>
+    <string name="auto_hbm_title">自動HBM</string>
+    <string name="auto_hbm_summary">啟用基於陽光的峰值亮度</string>
+    <string name="auto_hbm_threshold_title"></string>
+    <string name="auto_hbm_threshold_summary">閾值（勒克斯）</string>
+    <string name="hbm_mode_warning">長時間使用高亮度模式可能會損壞您的顯示器</string>
+    <!-- DT2W -->
+    <string name="dt2w_enable_title">雙擊喚醒</string>
+    <string name="dt2w_enable_summary">雙擊鎖屏喚醒設備</string>
+    <!-- Color mode -->
+    <string name="color_mode_option_natural">自然</string>
+    <string name="color_mode_option_boosted">Boosted</string>
+    <string name="color_mode_option_automatic">Automatic</string>
+    <string name="color_mode_option_vivid">生動</string>
+    <string name="color_mode_option_original">原比例</string>
+    <string name="color_mode_option_p3">P3</string>
+    <string name="color_mode_option_srgb">sRGB</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <!-- HBM settings -->
+    <string name="hbm_fragment_title">Mode kecerahan tinggi</string>
+    <string name="hbm_fragment_summary">Pengaturan untuk HBM</string>
+    <string name="hbm_mode_title">HBM</string>
+    <string name="hbm_mode_summary">Mengaktifkan pencahayaan puncak</string>
+    <string name="auto_hbm_title">HBM otomatis</string>
+    <string name="auto_hbm_summary">Mengaktifkan pencahayaan puncak berdasarkan sinar matahari</string>
+    <string name="auto_hbm_threshold_title"></string>
+    <string name="auto_hbm_threshold_summary">ambang batas (lux)</string>
+    <string name="hbm_mode_warning">Penggunaan mode kecerahan tinggi dalam waktu lama dapat merusak layar Anda</string>
+    <!-- DT2W -->
+    <string name="dt2w_enable_title">Ketuk dua kali untuk membangunkan</string>
+    <string name="dt2w_enable_summary">Ketuk dua kali pada layar kunci untuk membangunkan perangkat</string>
+    <!-- Color mode -->
+    <string name="color_mode_option_natural">Alami</string>
+    <string name="color_mode_option_boosted">Ditingkatkan</string>
+    <string name="color_mode_option_automatic">Otomatis</string>
+    <string name="color_mode_option_vivid">Vivid</string>
+    <string name="color_mode_option_original">Asli</string>
+    <string name="color_mode_option_p3">P3</string>
+    <string name="color_mode_option_srgb">sRGB</string>
+</resources>

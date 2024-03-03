@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <!-- HBM settings -->
+    <string name="hbm_fragment_title">حالت روشنایی بالا</string>
+    <string name="hbm_fragment_summary">تنظیمات برای HBM</string>
+    <string name="hbm_mode_title">HBM</string>
+    <string name="hbm_mode_summary">اوج روشنایی را فعال کنید</string>
+    <string name="auto_hbm_title">HBM اتوماتیک</string>
+    <string name="auto_hbm_summary">حداکثر روشنایی را بر اساس نور خورشید فعال کنید</string>
+    <string name="auto_hbm_threshold_title"></string>
+    <string name="auto_hbm_threshold_summary">آستانه (لوکس)</string>
+    <string name="hbm_mode_warning">استفاده طولانی مدت از حالت روشنایی بالا ممکن است به صفحه نمایش شما آسیب برساند</string>
+    <!-- DT2W -->
+    <string name="dt2w_enable_title">برای بیدار شدن، دو ضربه سریع بزنید</string>
+    <string name="dt2w_enable_summary">برای بیدار کردن دستگاه، روی صفحه قفل دوبار ضربه بزنید</string>
+    <!-- Color mode -->
+    <string name="color_mode_option_natural">طبیعی</string>
+    <string name="color_mode_option_boosted">Boosted</string>
+    <string name="color_mode_option_automatic">Automatic</string>
+    <string name="color_mode_option_vivid">Vivid</string>
+    <string name="color_mode_option_original">Original</string>
+    <string name="color_mode_option_p3">P3</string>
+    <string name="color_mode_option_srgb">sRGB</string>
+</resources>

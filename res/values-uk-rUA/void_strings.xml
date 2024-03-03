@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <!-- HBM settings -->
+    <string name="hbm_fragment_title">Режим високої яскравості</string>
+    <string name="hbm_fragment_summary">Налаштування для HBM</string>
+    <string name="hbm_mode_title">HBM</string>
+    <string name="hbm_mode_summary">Увімкнути пікову яскравість</string>
+    <string name="auto_hbm_title">Автоматичний HBM</string>
+    <string name="auto_hbm_summary">Вмикати максимальну яскравість на сонці</string>
+    <string name="auto_hbm_threshold_title"></string>
+    <string name="auto_hbm_threshold_summary">поріг (lux)</string>
+    <string name="hbm_mode_warning">Тривале використання режиму високої яскравості може призвести до пошкодження дисплея</string>
+    <!-- DT2W -->
+    <string name="dt2w_enable_title">Увімкнення екрану подвійним натисканням </string>
+    <string name="dt2w_enable_summary">Подвійний дотик у будь-якому місці екрану для пробудження пристрою</string>
+    <!-- Color mode -->
+    <string name="color_mode_option_natural">Природний</string>
+    <string name="color_mode_option_boosted">Підвищено</string>
+    <string name="color_mode_option_automatic">Автоматично</string>
+    <string name="color_mode_option_vivid">Яскравий</string>
+    <string name="color_mode_option_original">Оригінал</string>
+    <string name="color_mode_option_p3">P3</string>
+    <string name="color_mode_option_srgb">Режим sRGB</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022-2023 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <!-- HBM settings -->
+    <string name="hbm_fragment_title">Modo de alta luminosidad</string>
+    <string name="hbm_fragment_summary">Ajustes del modo de alto brillo</string>
+    <string name="hbm_mode_title">HBM</string>
+    <string name="hbm_mode_summary">Habilitar luminancia pico</string>
+    <string name="auto_hbm_title">HBM automático</string>
+    <string name="auto_hbm_summary">Activar el pico de luminancia en función de la luz solar</string>
+    <string name="auto_hbm_threshold_title"></string>
+    <string name="auto_hbm_threshold_summary">umbral (lux)</string>
+    <string name="hbm_mode_warning">El uso prolongado del modo de brillo alto puede dañar la pantalla</string>
+    <!-- DT2W -->
+    <string name="dt2w_enable_title">Doble toque para encender pantalla</string>
+    <string name="dt2w_enable_summary">Pulsa dos veces en la pantalla de bloqueo para activar el dispositivo</string>
+    <!-- Color mode -->
+    <string name="color_mode_option_natural">Natural</string>
+    <string name="color_mode_option_boosted">Mejorados</string>
+    <string name="color_mode_option_automatic">Automático</string>
+    <string name="color_mode_option_vivid">Vívido</string>
+    <string name="color_mode_option_original">Original</string>
+    <string name="color_mode_option_p3">P3</string>
+    <string name="color_mode_option_srgb">sRGB</string>
+</resources>
